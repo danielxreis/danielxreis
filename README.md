@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Daniel</h1>
-<h3 align="center">📣Comuniqueiro e 👨🏽‍💻 programeiro.</h3>
+<h3 align="center">Sou 📣comuniqueiro e 👨🏽‍💻 programeiro.</h3>
 
 <h3 align="left">Me encontre nas redes sociais:</h3>
 <p align="left">
