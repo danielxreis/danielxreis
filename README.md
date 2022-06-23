@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, Eu sou o Daniel</h1>
-<h3 align="center">Sou 📣comuniqueiro e 👨🏽‍💻 programeiro.</h3>
+<h1 align="center">Olá, Eu sou o Daniel 👋</h1>
+<h3 align="center">Sou 📣comuniqueiro e 👨🏽‍💻 programeiro. Comecei a me comunicar muito cedo, tenho experiência em comunicação desde antes de nascer, já programar, demorou muito mais, tipo uns 12 anos. Comecei como hobby mesmo... Ah, pera, você tá querendo saber da minha formação?</h3>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
