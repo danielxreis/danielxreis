@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Daniel 👋</h1>
-<h3 align="center">I'm a brazilian 📣comuniqueiro and a 👨🏽‍💻 programeiro. Which means I have a few graduations related to communication, development and Cyber Security Researcher. </h3>
+<h3 align="center">I'm graduated in communication as a journalist, have a MBA in Communication and Digital Marketing. I also have a graduation in Cyber Security and Defense and work with Development. I managed some projects related to Price Tracking Bots, Web development and DevOps for a few companies. I'm a brazilian, which means I'm a 📣comuniqueiro and a 👨🏽‍💻 programeiro.</h3>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
