@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Daniel 👋</h1>
 <h3 align="center">I'm graduated in communication as a journalist, have a MBA in Communication and Digital Marketing and I'm also graduated in Cyber Security. I managed some projects related to Price Tracking Bots, Web development and DevOps for a few companies. I'm a brazilian, which means I'm a 📣comuniqueiro and a 👨🏽‍💻 programeiro.</h3>
 
+## My good companions
+- [Cypher](https://github.com/Ciphey/Ciphey)
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
