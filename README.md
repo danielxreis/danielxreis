@@ -4,7 +4,6 @@
 ## My good companions
 - [Cypher](https://github.com/Ciphey/Ciphey) - Decrypting
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Task manager
-- [Flameshot](https://github.com/flameshot-org/flameshot) - Better print screen
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
